@@ -13,6 +13,7 @@ subregion, population, borders & languages.
 ● Rest API docs - https://restcountries.eu
 
 **#Building project**
+
 1.Initialize your project as a public repository on GitHub. This will make it easier to share your code with the community if you need some help. If you're not sure how to do this, have a read through of this Try Git resource.
 
 2.Configure your repository to publish your code to a URL. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, but we recommend using Vercel. We've got more information about deploying your project with Vercel below.
